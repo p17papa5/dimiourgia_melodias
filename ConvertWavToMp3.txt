@@ -1,0 +1,3 @@
+https://github.com/jiaaro/pydub
+
+Πρέπει να κάνουμε install το pydub και το ffmpeg
